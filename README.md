@@ -1,5 +1,5 @@
 # My_keyboard
-Helixを自作したときの個人的なメモなど
+Nyquistを自作したときの個人的なメモなど
 
 ## 購入品目
 [購入部品リスト](./myquist_part.md)
